@@ -1,0 +1,33 @@
+C:\Users\hp\Desktop\FingerprintRecognize-master\Code\bin\Release\FingerprintRegnition.exe
+C:\Users\hp\Desktop\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.About.resources
+C:\Users\hp\Desktop\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.AlgorithmTest.resources
+C:\Users\hp\Desktop\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.CompareInfo.resources
+C:\Users\hp\Desktop\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.CompareOption.resources
+C:\Users\hp\Desktop\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.CompareWithCollection.resources
+C:\Users\hp\Desktop\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.FingerCompare.resources
+C:\Users\hp\Desktop\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.ImageProcessSetting.resources
+C:\Users\hp\Desktop\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.RegionSelectPadding.resources
+C:\Users\hp\Desktop\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.exe
+C:\Users\hp\Desktop\đồ án AO\Code\obj\Release\FingerprintRegnition.exe
+C:\Users\hp\Desktop\đồ án AO\Code\bin\Release\FingerprintRegnition.exe
+C:\Users\hp\Desktop\đồ án AO\Code\obj\Release\FingerprintRegnition.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\đồ án AO\Code\obj\Release\FingerprintRegnition.About.resources
+C:\Users\hp\Desktop\đồ án AO\Code\obj\Release\FingerprintRegnition.AlgorithmTest.resources
+C:\Users\hp\Desktop\đồ án AO\Code\obj\Release\FingerprintRegnition.CompareInfo.resources
+C:\Users\hp\Desktop\đồ án AO\Code\obj\Release\FingerprintRegnition.CompareOption.resources
+C:\Users\hp\Desktop\đồ án AO\Code\obj\Release\FingerprintRegnition.CompareWithCollection.resources
+C:\Users\hp\Desktop\đồ án AO\Code\obj\Release\FingerprintRegnition.FingerCompare.resources
+C:\Users\hp\Desktop\đồ án AO\Code\obj\Release\FingerprintRegnition.ImageProcessSetting.resources
+C:\Users\hp\Desktop\đồ án AO\Code\obj\Release\FingerprintRegnition.RegionSelectPadding.resources
+C:\Users\hp\Desktop\đồ án AO\Code\obj\Release\FingerprintRegnition.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\doan2\obj\Release\FingerprintRegnition.exe
+C:\Users\hp\Desktop\doan2\bin\Release\FingerprintRegnition.exe
+C:\Users\hp\Desktop\doan2\obj\Release\FingerprintRegnition.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\doan2\obj\Release\FingerprintRegnition.About.resources
+C:\Users\hp\Desktop\doan2\obj\Release\FingerprintRegnition.AlgorithmTest.resources
+C:\Users\hp\Desktop\doan2\obj\Release\FingerprintRegnition.CompareInfo.resources
+C:\Users\hp\Desktop\doan2\obj\Release\FingerprintRegnition.FingerCompare.resources
+C:\Users\hp\Desktop\doan2\obj\Release\FingerprintRegnition.ImageProcessSetting.resources
+C:\Users\hp\Desktop\doan2\obj\Release\FingerprintRegnition.csproj.GenerateResource.Cache
